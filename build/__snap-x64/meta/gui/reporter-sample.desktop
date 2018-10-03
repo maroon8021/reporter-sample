@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=reporter-sample
+Comment=An electron-vue project
+Exec=reporter-sample
+Terminal=false
+Type=Application
+Icon=${SNAP}/meta/gui/icon.png
+StartupWMClass=reporter-sample
+Categories=Utility;
